@@ -102,7 +102,7 @@ tela logada:
 - para anotar um pedido basta ir em pedidos e depois clickar em "+ Novo pedido".
 
 3. Acompanhamento financeiro / pedidos
- <img width="1919" height="563" alt="unnamed" src="https://github.com/user-attachments/assets/6c06a5e7-42ce-4e8f-88fe-d12b3526b609" />
+  <img width="1919" height="563" alt="unnamed" src="https://github.com/user-attachments/assets/6c06a5e7-42ce-4e8f-88fe-d12b3526b609" />
 - após fazer um pedido é possivel vizualizalos juntamente com o dinheiro total recebido por eles.
 
 4. Cadastro clientes
