@@ -129,23 +129,22 @@ tela logada:
 
 
 ## Credenciais de  teste🔑
-----------------------------------|
-- Administrador                   |
--login: admin@pizzaria.com        |
--senha: 123456                    |
-                                  |
-----------------------------------|
-                                  |
-- Atendente                       |
--login: atendente@pizzaria.com    |
--senha: 123456                    |
-----------------------------------|
-                                  |
-- Garçom                          |
--login: garcom@pizzaria.com       |
--senha: 123456                    |
-                                  |
-----------------------------------|
+- Administrador                   
+-login: admin@pizzaria.com        
+-senha: 123456                    
+                                  
+
+                                  
+- Atendente                       
+-login: atendente@pizzaria.com    
+-senha: 123456                    
+
+                                  
+- Garçom                          
+-login: garcom@pizzaria.com       
+-senha: 123456                    
+                                  
+
 
 
 
