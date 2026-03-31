@@ -128,5 +128,36 @@ tela logada:
 
 
 
+## Credenciais de  teste🔑
+----------------------------------|
+- Administrador                   |
+-login: admin@pizzaria.com        |
+-senha: 123456                    |
+                                  |
+----------------------------------|
+                                  |
+- Atendente                       |
+-login: atendente@pizzaria.com    |
+-senha: 123456                    |
+----------------------------------|
+                                  |
+- Garçom                          |
+-login: garcom@pizzaria.com       |
+-senha: 123456                    |
+                                  |
+----------------------------------|
+
+
+
+
+
+## Desafios🤯
+O nosso maior desafio foi o entendimento e a pratica de instalação das Bibliotecas e Frameworks e o unico jeito de realmente cnseguir foi na base da tentativa e erro. No final tudo ficou mais claro quando pensamos na instalação das mesmas em uma unica pasta "CHEFE". Outro problema solucionado logo após realizarmos a instalação correta de tudo foi colocar o servidor para rodar o que acabou sendo facilmente solucionado.
+
+
+## Melhorias futuras
+
+Oque sem duvidas pode ser melhorado é a adição de imagens para deixar uma interface mais dinamica e de facil atendimento.
+
 
 
