@@ -93,12 +93,21 @@ tela logada:
 ## 👀Funcionlidades e como testalas
 
 
-- Login por função
-<img width="919" height="343" alt="unnamed" src="https://github.com/user-attachments/assets/2e5ffb4e-813d-4f5b-9e0e-4c6907036724" />
+1. Login por função
+   <img width="919" height="343" alt="unnamed" src="https://github.com/user-attachments/assets/2e5ffb4e-813d-4f5b-9e0e-4c6907036724" />
+- para iniciar o site basta colocar o login e senha pré cadastrado.
 
+2. Fazer pedido
+   <img width="720" height="698" alt="unnamed" src="https://github.com/user-attachments/assets/6221696f-e190-45ed-b764-1f49bff249ad" />
+- para anotar um pedido basta ir em pedidos e depois clickar em "+ Novo pedido".
 
+3. Acompanhamento financeiro / pedidos
+ <img width="1919" height="563" alt="unnamed" src="https://github.com/user-attachments/assets/6c06a5e7-42ce-4e8f-88fe-d12b3526b609" />
+- após fazer um pedido é possivel vizualizalos juntamente com o dinheiro total recebido por eles.
 
-
+4. Cadastro clientes
+<img width="1797" height="417" alt="unnamed" src="https://github.com/user-attachments/assets/10c7f701-68c9-4060-bc2c-35793ba9af1c" />
+-o seeds que cria um banco de dados pré preenchido cria alguns usuarios existentes sendo possivel ve-los na aba pedidos ou clientes.
 
 
 
