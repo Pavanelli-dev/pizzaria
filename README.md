@@ -94,24 +94,24 @@ tela logada:
 
 
 1. Login por função
-2. 
+
 <img width="919" height="343" alt="unnamed" src="https://github.com/user-attachments/assets/2e5ffb4e-813d-4f5b-9e0e-4c6907036724" />
 
-- para iniciar o site basta colocar o login e senha pré cadastrado.
+-para iniciar o site basta colocar o login e senha pré cadastrado.
 
 
 
 2. Fazer pedido
 <img width="720" height="698" alt="unnamed" src="https://github.com/user-attachments/assets/6221696f-e190-45ed-b764-1f49bff249ad" />
 
-- para anotar um pedido basta ir em pedidos e depois clickar em "+ Novo pedido".
+-para anotar um pedido basta ir em pedidos e depois clickar em "+ Novo pedido".
 
 
 
 3. Acompanhamento financeiro / pedidos
 <img width="1919" height="563" alt="unnamed" src="https://github.com/user-attachments/assets/6c06a5e7-42ce-4e8f-88fe-d12b3526b609" />
 
-- após fazer um pedido é possivel vizualizalos juntamente com o dinheiro total recebido por eles.
+-após fazer um pedido é possivel vizualizalos juntamente com o dinheiro total recebido por eles.
 
 
 
@@ -120,6 +120,11 @@ tela logada:
 
 -o seeds que cria um banco de dados pré preenchido cria alguns usuarios existentes sendo possivel ve-los na aba pedidos ou clientes.
 
+
+
+5. Funções
+<img width="1677" height="278" alt="unnamed" src="https://github.com/user-attachments/assets/0a1b90db-c05a-4d2b-b1a2-2a0d79bb3eaf" />
+-É possivel cadastrar novos logins para funcionarios ou alterar a senha dos que á existem.
 
 
 
